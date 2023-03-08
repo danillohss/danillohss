@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Developer
 ----------------
 
-* 🌍  I'm based in Brazil, Cauaru-PE
+* 🌍  I'm based in Brazil, Caruaru-PE
 * ✉️  You can contact me at [danillohss@gmail.com](mailto:danillohss@gmail.com)
 * 🧠  I'm learning JavaScript, HTML, CSS, ReactJS and Vuejs
 
