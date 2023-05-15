@@ -6,7 +6,7 @@ Junior Developer
 
 * 🌍  I'm based in Brazil, Caruaru-PE
 * ✉️  You can contact me at [danillohss@gmail.com](mailto:danillohss@gmail.com)
-* 🧠  I'm learning JavaScript, HTML, CSS, ReactJS and Vuejs
+* 🧠  I'm learning JavaScript, HTML, CSS, Vue.js, Bootstrap and JQuery
 
 ### Skills
 
