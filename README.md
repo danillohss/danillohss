@@ -1,7 +1,7 @@
 <h1 align="center">Olá, meu nome é Danillo Soares</h1>
 <h3 align="center">Desenvolvedor Front-end</h3>
 
-- 🌱 Atualmente estudando e desenvolvendo meus conhecimentos em **HTML5/CSS3, JavaScript, Vue.js, Vuetify, Bootstrap e JQuery**
+- 🌱 Atualmente estudando e desenvolvendo meus conhecimentos em **HTML5/CSS3, JavaScript, Vue.js, Vuetify, Bootstrap e testes unitários com Cypress**
 
 - 👨‍💻 Acesse meu portfólio: [https://danillohss-vuejs-portfolio.netlify.app/](https://danillohss-vuejs-portfolio.netlify.app/)
 
