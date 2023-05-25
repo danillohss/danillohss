@@ -17,30 +17,7 @@
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <p align="left"> 
-  
-
-  
-
-  
  
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
 ![danillohss's Stats](https://github-readme-stats.vercel.app/api?username=danillohss&theme=gotham&show_icons=true&hide_border=false&count_private=false)<br/>
 ![danillohss's Streak](https://github-readme-streak-stats.herokuapp.com/?user=danillohss&theme=gotham&hide_border=false)<br/>
 ![danillohss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danillohss&theme=gotham&show_icons=true&hide_border=false&layout=compact)
